@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm [Ranvir](https://www.linkedin.com/in/ranvir-kakkar-65b429314/), a full-stack web developer based in India.
 
-<!--
-**ranvirkakkar/ranvirkakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build whatever feels exciting to me. If I have a cool idea I'm most probably gonna build it.
 
-Here are some ideas to get you started:
+My main tech stack is react, express, mongoDB (MERN), next.js and typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages I know are javascript and python.
+
+My favorite tools are figma, vs-code, postman, docker.
+
+I've got a bunch of pinned projects, but my favorite is the [Mini Crossword](https://our-crossword.netlify.app/)
+
+Fun facts: 
+ *  I am a gamer at heart
+ *  I gain a buff from music
+ 
